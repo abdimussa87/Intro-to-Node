@@ -1,0 +1,24 @@
+{
+  "name": "node.js-tutorial",
+  "version": "10.16.3",
+  "description": "Simple web app",
+  "main": "myfirstnode.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "upper-case": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdimussa87/Intro-to-Node.git"
+  },
+  "author": "Abdi Mussa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdimussa87/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/abdimussa87/Intro-to-Node#readme"
+}
